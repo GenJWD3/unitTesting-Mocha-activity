@@ -6,7 +6,7 @@
  
  
  /*
- *  Implement the add function as needed to garantee that:
+ *  Implement the add function as needed to guarantee that:
       1 - add two arguments
       2 - handles only one argument
       3 - handles 0 as arguments
@@ -19,8 +19,8 @@ const add = () => {
   * Write a program that prints the numbers. 
       1 - numbers multiples of three prints “Fizz” instead of the number 
       2 - numbers multiples of five prints “Buzz” instead of the number. 
-      3 - numbers which are multiples of both three and five prints “FizzBuzz”
-      4 -  and numbers that are either multiples of three or five prints the number.
+      3 - numbers which are multiples of three and five prints “FizzBuzz”
+      4 -  and numbers that are either multiple of three or five prints the number.
       Ex: 1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, ...
  */ 
  const fizzBuzz = () => {
